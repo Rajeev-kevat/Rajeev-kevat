@@ -1,6 +1,8 @@
 <!-- Rajeev Kevat | Simple profile README -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06111f,55:0b2030,100:0f766e&height=190&section=header&text=RAJEEV%20KEVAT&fontSize=34&fontColor=f8fafc&fontAlignY=38&desc=IT%20%26%20ACCOUNTS%20MANAGER%20%7C%20SOFTWARE%20BUILDER&descAlignY=63&descSize=15&descColor=5eead4" width="100%" alt="Rajeev Kevat" />
+  <h1>Rajeev Kevat</h1>
+  <p><strong>IT &amp; Accounts Manager · Software Builder</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06111f,55:0b2030,100:0f766e&height=90&section=header" width="100%" alt="Rajeev Kevat header" />
 </div>
 
 <div align="center">
