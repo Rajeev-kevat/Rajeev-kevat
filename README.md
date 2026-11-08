@@ -44,7 +44,7 @@ Cloud computing · Network security · Cybersecurity fundamentals · Databases �
 - [Certificate Generator](https://github.com/Rajeev-kevat/certificate-generator) — certificate generation tool
 
 <div align="center">
-  <a href="https://rajkewat9.github.io"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:06111f&height=62&text=VIEW%20FULL%20PORTFOLIO%20%E2%86%92&fontSize=21&fontColor=e0f2fe&fontAlignY=55" width="100%" alt="View full portfolio" /></a>
+  <a href="https://rajkewat9.github.io"><img src="[https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,100:06111f&height=62&text=VIEW%20FULL%20PORTFOLIO%20%E2%86%92&fontSize=21&fontColor=e0f2fe&fontAlignY=55](https://portfolio.amitywalaraj.tech/)" width="100%" alt="View full portfolio" /></a>
 </div>
 
 <p align="center">
